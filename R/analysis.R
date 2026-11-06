@@ -14,7 +14,7 @@ library(patchwork)
 library(here)
 
 #read data file
-df <- readRDS(here("../data", "cod_clean.RDS"))
+df <- readRDS(here("data", "cod_clean.RDS"))
 
 # Surplus production and production rate
 
