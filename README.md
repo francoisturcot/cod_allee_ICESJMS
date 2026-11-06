@@ -4,9 +4,9 @@ Data and R code for the analysis of depletion, depensation and recovery in 24 At
 
 ### Contents
 
-- `data/cod_clean.RDS`: annual catch and biomass by stock, compiled from DFO stock assessments and the RAM Legacy Stock Assessment Database (version: [add version])
-- `R/analysis.R`: surplus production, segmented and linear regressions, Allee effect thresholds and strength, depletion and recovery status, main figures
-- `R/supp.R`: GAM production curves and Bmsy proxy (supplementary figure)
+- `data/cod_clean.RDS`: annual catch and biomass by stock, compiled from DFO stock assessments and the RAM Legacy Stock Assessment Database  
+- `R/analysis.R`: surplus production, segmented and linear regressions, Allee effect thresholds and strength, depletion and recovery status, main figures  
+- `R/supp.R`: GAM production curves and Bmsy proxy  
 
 ### How to run
 
